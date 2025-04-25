@@ -2,7 +2,7 @@
 
 Este é o painel administrativo do Projeto Charadas. Ele foi desenvolvido para permitir o gerenciamento das charadas exibidas na aplicação, como cadastrar novas, editar e excluir as existentes.
 
-**📋 Funcionalidades**
+## **📋 Funcionalidades**
 
 ✅ Listar todas as charadas cadastradas
 
